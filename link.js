@@ -1,0 +1,1 @@
+const offerLink = "https://trck.securecdst.com/SC4eVVrFnS";
